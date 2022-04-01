@@ -90,10 +90,23 @@
     .app__footer {
         padding: 0 0 2rem 0;
     }
+
+    .app__footer-links_contact,
+.app__footer-links_logo,
+.app__footer-links_work {
+   
+    text-align: center;
+}
 }
 
 @media screen and (max-width: 350px) {
     .app__footer-links_logo img:first-child {
         width: 80%;
     }
+
+    .app__footer-links_contact,
+.app__footer-links_logo,
+.app__footer-links_work {
+    text-align: center;
+}
 }
