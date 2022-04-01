@@ -28,7 +28,7 @@
 
 .app__navbar-location input {
   width: 30%;
-  padding: 0.5rem;
+  padding: 0.2em 0.5em;
   border: 1;
   border-radius: 0.25rem;
   background: var(--color-white);
